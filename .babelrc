@@ -1,0 +1,3 @@
+{
+  "presets": ["@dreipol/babel-preset-google-apps-script"]
+}
